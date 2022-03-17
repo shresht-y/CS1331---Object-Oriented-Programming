@@ -1,0 +1,4 @@
+Added Features: 
+
+1. Added an alert which asks why the user kills animals when a spot is erased, then launches the PETA website
+2. Added ASCII art for all animals that can be added.
